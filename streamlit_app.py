@@ -22,7 +22,7 @@ for uploaded_file in uploaded_files:
 
 
 st.write("")
-"Esta es una comparación entre un pulmon sano y uno opaco"
+"Esta es una comparación entre un pulmon sano y uno opaco - DAVID BISBAL"
 st.write("")
 
 st.markdown("Paciente x")
